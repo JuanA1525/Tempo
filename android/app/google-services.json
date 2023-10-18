@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704294991532",
+    "project_id": "v1tempo",
+    "storage_bucket": "v1tempo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704294991532:android:1e367d84daee43d370d109",
+        "android_client_info": {
+          "package_name": "com.example.tempo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNpXlBMtPgtb_79a8ERnPasZcYMyEdmNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
