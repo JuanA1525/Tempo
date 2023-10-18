@@ -12,7 +12,11 @@ class MainApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(fontFamily: 'Poppins'),
+      theme: ThemeData(
+        fontFamily: 'Poppins',
+        useMaterial3: true,
+        primarySwatch: Colors.blue,
+      ),
       home: const Login()
     );
   }
